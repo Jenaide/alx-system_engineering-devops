@@ -1,1 +1,1 @@
-0x02-shell_redirections
+assignment for 0x04-loops_conditions_and_parsing
