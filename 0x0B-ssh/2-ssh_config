@@ -1,4 +1,4 @@
 # holberton server config options
-Host 54.162.239.163
+Host 98.98.98.98
     IdentityFile ~/.ssh/school
     Protocol 2
