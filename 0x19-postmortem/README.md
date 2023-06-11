@@ -58,4 +58,4 @@ Please, remember that these blogs must be written in English to further your tec
 - https://medium.com/@jenaidesibolie/postmortem-service-outage-incident-c58c9763cdf8
 
 ## Author:
-* **Jenaide Sibolie**[Jenaide](https://github.com/Jenaide)
+* **Jenaide Sibolie** - [Jenaide](https://github.com/Jenaide)
